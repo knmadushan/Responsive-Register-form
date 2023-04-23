@@ -1,0 +1,16 @@
+body {
+    background-image: url(1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.container {
+    width: 400px;
+    margin: 70px auto;
+    background-color: #00000044;
+    border-radius: 5px;
+    padding: 8px;
+}
